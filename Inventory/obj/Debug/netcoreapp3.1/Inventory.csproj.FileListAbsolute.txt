@@ -1,0 +1,16 @@
+C:\Users\Jerome\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.AssemblyReference.cache
+C:\Users\Jerome\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.Inventory.resources
+C:\Users\Jerome\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.GenerateResource.cache
+C:\Users\Jerome\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerome\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfoInputs.cache
+C:\Users\Jerome\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.AssemblyInfo.cs
+C:\Users\Jerome\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Jerome\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.exe
+C:\Users\Jerome\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.deps.json
+C:\Users\Jerome\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.json
+C:\Users\Jerome\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.runtimeconfig.dev.json
+C:\Users\Jerome\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jerome\source\repos\Inventory\Inventory\bin\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jerome\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.dll
+C:\Users\Jerome\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.pdb
+C:\Users\Jerome\source\repos\Inventory\Inventory\obj\Debug\netcoreapp3.1\Inventory.genruntimeconfig.cache
